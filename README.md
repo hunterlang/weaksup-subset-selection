@@ -9,11 +9,14 @@ This procedure prunes mislabeled training examples and thus improves the end mod
 ## Citation
 If you find this method useful, please cite our paper:
 ```bibtex
-@article{lang2022training,
-  title={Training Subset Selection for Weak Supervision},
-  author={Lang, Hunter and Vijayaraghavan, Aravindan and Sontag, David},
-  journal={arXiv preprint arXiv:2206.02914},
-  year={2022}
+@inproceedings{lang2022training,
+ author = {Lang, Hunter and Vijayaraghavan, Aravindan and Sontag, David},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+ pages = {16023--16036},
+ title = {Training Subset Selection for Weak Supervision},
+ volume = {35},
+ year = {2022}
 }
 ```
 
